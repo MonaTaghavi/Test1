@@ -1,3 +1,3 @@
 print("Hello, World!")
-print("Welcome to the world of Python programming.")
+print("Welcome to the world of git.")
 print("This is a simple Python application.")
