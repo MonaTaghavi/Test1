@@ -6,3 +6,5 @@ print("This is a simple Python application.")
 print("la vie est belle" )
 def sum(a, b):
     return a + b
+def multiply(a, b):
+    return a * b
