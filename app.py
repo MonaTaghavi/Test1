@@ -3,6 +3,5 @@ def greet(name):
     return f"Hello, {name}!"
 print("Welcome to the world of git.")
 print("This is a simple Python application.")
-print("la vie est belle" )
-def add(a, b):
-    return a + b
+print("Texte d'essaye.")
+My_variable = "This is a variable."
